@@ -117,3 +117,38 @@ footer a {
     font-size: 2rem;
     padding: 10px 15px;
 }
+/* Página individual de projeto */
+section.works-detail {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 0 20px;
+}
+
+section.works-detail h2 {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+section.works-detail h3 {
+    font-size: 1.4rem;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+section.works-detail p {
+    font-size: 1rem;
+    margin-bottom: 15px;
+    line-height: 1.6;
+    color: #333;
+}
+
+section.works-detail .tag {
+    background-color: #FF6464;
+    color: #fff;
+    padding: 3px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-right: 10px;
+}
